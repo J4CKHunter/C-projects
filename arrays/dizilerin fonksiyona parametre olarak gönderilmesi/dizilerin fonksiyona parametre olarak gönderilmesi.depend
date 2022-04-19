@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545211100 source:c:\users\erdem\onedrive\masaüstü\projeler\dizilerin fonksiyona parametre olarak gönderilmesi\main.c
+	<stdio.h>
+	<stdlib.h>
+
