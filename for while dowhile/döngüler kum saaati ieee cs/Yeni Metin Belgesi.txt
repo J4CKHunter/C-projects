@@ -1,0 +1,14 @@
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+girilen sayý : 5
+
+
+1.satýr 4 boþluk 1 printf("* )";
+2.satýr 3 boþluk 2 printf("* )";
+3.satýr 2 boþluk 3 printf("* )";
+4.satýr 1 boþluk 4 printf("* )";
+5.satýr 0 boþluk 5 printf("* )";

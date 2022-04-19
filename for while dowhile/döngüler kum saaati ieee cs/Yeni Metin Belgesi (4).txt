@@ -1,0 +1,9 @@
+* * * * * 	1.satýr 	0 boþluk	5 "* "
+ * * * *	2.satýr 	1 boþluk 	4 "* "
+  * * * 	3.satýr 	2 boþluk 	3 "* "
+   * * 		4.satýr 	3 boþluk 	2 "* "
+    *		5.satýr 	4 boþluk 	1 "* "
+
+
+satýr  + yýldýz = x+1
+yýldýz=x+1-satýr
