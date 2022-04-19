@@ -1,0 +1,17 @@
+    *
+   **
+  ***
+ ****
+*****
+... n
+
+giriþ yapýlan sayý : 5
+
+1. satýr 4 boþluk 1 yýldýz
+2. satýr 3 boþluk 2 yýldýz
+3. satýr 2 boþluk 3 yýldýz
+4. satýr 1 boþluk 4 yýldýz
+5. satýr 0 boþluk 5 yýldýz
+
+
+
