@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576877473 source:c:\users\erdem\desktop\c projects\string\stringi fonksiyona gönderme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
