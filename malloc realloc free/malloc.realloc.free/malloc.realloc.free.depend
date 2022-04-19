@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570271133 source:c:\users\j4\desktop\c projects\malloc realloc free\malloc.realloc.free\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

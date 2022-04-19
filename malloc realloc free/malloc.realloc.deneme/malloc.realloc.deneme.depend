@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558192683 source:c:\users\erdem\onedrive\masaüstü\projeler\malloc.realloc.deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
