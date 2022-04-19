@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570278913 source:c:\users\j4\desktop\c projects\dosyalar\dosyalar_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
