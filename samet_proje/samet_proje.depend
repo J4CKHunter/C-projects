@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591894064 source:c:\users\erdem\desktop\samet_proje\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

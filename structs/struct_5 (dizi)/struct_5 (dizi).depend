@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557263364 source:c:\users\erdem\onedrive\masaüstü\projeler\structs\struct_5 (dizi)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
