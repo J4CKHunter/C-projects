@@ -1,0 +1,26 @@
+baþ harf erdem'in e'si
+
+20 gün mesaisiz
+saat baþý 20tl
+günde 8 saat
+3200 tl (burasý fix)
+
+
+mesailer:
+10 saate kadar saati 5 tl
+10 20 arasý saati 3 tl 
+20den fazlasý saati 2 tl
+
+mesai 1.deneme 5  saat  +25 tl  == 3225 tl maaþ toplamý
+mesai 2.deneme 10 saat  +50 tl  == 3250 tl maaþ toplamý
+mesai 3.deneme 15 saat  +65 tl  == 3265 tl maaþ toplamý
+mesai 3.deneme 20 saat  +80 tl  == 3280 tl maaþ toplamý 
+mesai 4.deneme 25 saat	+90 tl  == 3290 tl maaþ toplamý 
+
+
+  
+
+
+
+OLMALI !!!!!! Yapacam 
+
