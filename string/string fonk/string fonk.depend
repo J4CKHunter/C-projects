@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552931629 source:c:\users\erdem\onedrive\masaüstü\projeler\string fonk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552930916 source:c:\users\erdem\onedrive\masaüstü\projeler\string 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
