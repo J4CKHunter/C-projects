@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554232188 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\strtol strtod\main.c
+	<stdio.h>
+	<stdlib.h>
+

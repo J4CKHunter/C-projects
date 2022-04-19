@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553630963 source:c:\users\erdem\onedrive\masaüstü\projeler\string içinde string arama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

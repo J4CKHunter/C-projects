@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554209888 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\ispunct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

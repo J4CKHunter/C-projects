@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554232136 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\atoi atol atof\main.c
+	<stdio.h>
+	<stdlib.h>
+

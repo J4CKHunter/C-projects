@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554210539 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\isupper islower\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
