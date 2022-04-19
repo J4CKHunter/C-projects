@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547387992 source:c:\users\j4\desktop\c projeler\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
