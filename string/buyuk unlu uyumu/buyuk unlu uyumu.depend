@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553960184 source:c:\users\erdem\onedrive\masaüstü\projeler\buyuk unlu uyumu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
