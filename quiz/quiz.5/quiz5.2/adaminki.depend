@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554565028 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\adaminki\main.c
+	<stdio.h>
+	<string.h>
+

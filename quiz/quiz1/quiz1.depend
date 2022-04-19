@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552307358 source:c:\users\erdem\onedrive\masaüstü\projeler\quiz1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

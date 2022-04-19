@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554561495 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\qwerty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

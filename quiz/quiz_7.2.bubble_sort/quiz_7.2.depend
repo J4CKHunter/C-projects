@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558007858 source:c:\users\erdem\onedrive\masaüstü\projeler\structs\quiz_7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558264803 source:c:\users\erdem\onedrive\masaüstü\projeler\quiz_7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

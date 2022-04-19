@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554490626 source:c:\users\erdem\onedrive\masaüstü\projeler\string kütüphaneleri ve ctype\quiz5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1554564613 source:c:\users\erdem\onedrive\masaüstü\projeler\quiz5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
