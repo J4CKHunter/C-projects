@@ -1,0 +1,30 @@
+aa ba felan ögrenci notunu çevirsin
+0 100 arasýna not girdir => fazlasý veya eksiðinde uyarsýn
+içine kaldý veya geçti ekle 
+
+
+
+
+90-100 AA
+
+
+
+80-89 BA
+
+
+70-79 BB
+
+
+60-69 CB
+
+
+50-59 CC
+
+
+40-49 DC
+
+
+30-39 DD
+
+0-29 F
+
