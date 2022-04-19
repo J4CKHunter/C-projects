@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541541704 source:c:\users\erdem\onedrive\masaüstü\projeler\fonksiyonlar 7 recursive fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

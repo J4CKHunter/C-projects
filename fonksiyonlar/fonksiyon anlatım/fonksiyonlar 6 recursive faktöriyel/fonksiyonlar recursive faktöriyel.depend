@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541541458 source:c:\users\erdem\onedrive\masaüstü\projeler\fonksiyonlar recursive faktöriyel\main.c
+	<stdio.h>
+	<stdlib.h>
+
