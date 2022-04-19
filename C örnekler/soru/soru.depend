@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545136887 source:c:\users\erdem\onedrive\masaüstü\projeler\soru\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
