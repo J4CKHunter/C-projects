@@ -1,0 +1,21 @@
+int ROWS=1,COLS=7;
+
+int **array;
+
+array =malloc(sizeof *array * ROWS );
+
+if ( array ){
+    for ( size_t i = 0; i < ROWS; i++ )
+            array[i] = malloc( sizeof *array[i] * COLS );
+}
+    
+int add_rows=1;
+
+int **tmp = realloc( array, sizeof *array * (ROWS + add_rows) );
+
+if ( tmp ){
+    array = tmp;
+     for ( size_t i = 0; i < add_rows; i++ ){
+          array[ROWS + i] = malloc( sizeof *array[ROWS + i] * COLS );
+          }
+}
